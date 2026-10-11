@@ -1,7 +1,7 @@
 # Mcp
 一款无需公网射影的MCP插件导入vscode绑定工作区即可便捷使用
 Arena AI mcp
-独立开发的 VS Code 扩展，将当前工作区连接到自建 PHP MCP 服务。默认地址：https://mcp.j0a.cn。
+独立开发的 VS Code 扩展，将当前工作区连接到自建 PHP MCP 服务。
 
 使用
 在 VS Code 安装 VSIX，打开可信文件工作区，选择侧栏 工作区 MCP。
